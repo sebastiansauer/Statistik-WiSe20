@@ -1,0 +1,215 @@
+CASE;LANGUAGE;SC01;GS01_01;GS01_02;GS01_03;CM01_01;CM01_02;CM01_03;CM01_04;CM01_05;CS01_01;CS01_02;CS01_03;CS01_04;CS01_05;CS01_06;CS01_07;FW01_01;FW01_02;FW01_03;FW01_04;CW01_01;CW01_02;CW01_03;CW01_04;CF01_06;CF02;CF02_06;CF03_01;CF04;CF05_01;CF06;CF06s;SD01;SD02_01;SD03_01;SD04;SD04_09;SD05;SD05_08;SD06;SD07;SD08
+1;deu;2;5;5;6;5;5;5;5;6;6;5;5;5;6;6;4;5;5;4;5;4;4;3;4;9;5;;2;1;5;-2;Ich setze mir Ziele bzgl Bewegungsabläufen, die ich erlernen oder verbessern möchte und versuche diese ins Training zu integrieren.;;;;;;;;;;
+2;deu;2;7;6;6;7;6;6;7;6;6;4;6;6;7;7;5;5;6;7;7;6;5;6;5;21;1;;18;1;7;-2;ich gezielt an meinen Schwächen und Strategien mit der Unterstützung eines Coaches arbeite.;2;28;81;8;;4;;10;1;4
+3;deu;2;4;4;3;5;5;5;4;5;5;3;4;4;4;4;3;5;4;5;6;4;5;5;4;12;5;;2;1;6;-2;..weil mir der Sport wichtig ist als Ausgleich zur Arbeit und wenn ich etwas mache, dann 100% reinstecken möchte. Ziele zu setzen hilft meiner Motivation, diese 100% zu erreichen.;2;31;80;8;;4;;10;5;3
+4;deu;2;6;6;6;6;6;6;6;6;6;5;6;6;6;6;5;6;5;6;6;6;6;5;5;7,5;5;;17;2;5;-2;Ich setze mir Ziele um voran zu kommen, liebe aber auch die Routine im Training;1;29;89;8;;4;;9;4;1
+5;deu;2;5;6;5;6;6;5;6;7;5;4;6;6;6;7;5;6;6;7;7;6;4;5;3;8;5;;3;1;6;-2;Ich besser werden möchte und ich weiß, dass ich es mit entsprechender Zielsetzung auch schaffen kann;1;29;81;7;;3;;3;4;
+6;deu;2;4;4;4;6;5;4;4;4;4;3;5;5;6;6;3;3;3;6;6;4;4;6;4;5;6;Pole Dance, Fitnessstudio (Kraft/Geräte Training) und regelmäßig joggen;2;2;6;-2;Es auch tatsächlich so ist. Bestätigt dich regelmäßig;1;26;80;8;;4;;6;8;1
+7;deu;2;2;2;2;3;3;2;3;2;3;2;2;3;2;3;1;3;4;4;4;3;1;1;1;6;5;;3;1;3;-2;Wenig bis keine Zielsetzung;1;33;80;4;;4;;10;1;2
+8;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+9;deu;2;4;5;6;6;5;6;5;6;5;4;5;5;5;5;4;6;4;6;6;5;4;4;3;9;5;;1,75;1;6;-2;Ich möchte gezielt an manche meiner Schwächen arbeiten. Wenn ich diese nicht konkret angehe, werden sie nur langsam, wenn überhaupt, besser.;1;20;81;9;International Baccalaureate ;3;;5;1;
+10;deu;2;6;6;6;5;6;6;6;5;5;6;6;6;6;6;5;6;6;6;6;5;6;6;5;7;5;;1;2;6;-2;es mir Spaß macht;1;28;80;8;;3;;1;1;
+11;deu;2;7;7;7;7;7;7;7;7;7;6;7;7;7;7;6;7;7;7;7;6;7;7;6;11;5;;2;1;7;-2;mir meine Fitness sehr wichtig ist. In einem gesunden Körper wohnt ein gesunder Geist.;2;26;81;8;;4;;9;5;4
+12;deu;2;5;5;5;5;5;5;5;5;5;6;5;4;5;5;6;5;4;6;5;5;4;6;5;6,5;2;;7;2;6;-2;Ich meine Trainingspläne klar auf meine Ziele hin ausrichte;1;28;81;8;;4;;8;8;1
+13;deu;2;5;5;4;5;6;4;4;4;5;3;5;5;5;7;4;5;5;5;6;5;5;4;4;7,5;1;;21;1;6;-2;... ich mein Leben so strukturieren muss, um effizient zu trainieren und arbeiten zu können und so meine sportlichen Ziele erreichen zu können.;1;25;97;8;;3;;6;3;
+14;deu;2;3;4;5;4;5;5;3;3;5;5;4;5;5;3;2;4;5;4;5;4;5;4;5;5;5;;4;1;5;-9;;1;32;80;8;;4;;10;13;1
+15;deu;2;5;4;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+16;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+17;deu;2;7;5;6;5;5;5;6;4;4;6;6;6;6;6;5;6;6;5;6;6;4;5;4;4;6;Heimfitness ;3;2;4;-2;Ich mache Sport der Bewegung und Gesundheit wegen und nicht, um irgendwelche Ziele/Selbstverwirklichung zu erreichen.;1;25;81;8;;4;;8;5;4
+18;eng;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+19;eng;2;6;7;6;5;4;6;4;5;5;5;6;6;6;7;6;5;6;5;6;4;6;5;5;2;1;;3;2;3;-9;;2;30;81;8;;4;;7;1;1
+20;eng;2;6;6;6;5;6;5;5;5;5;5;5;6;6;4;3;4;5;4;6;5;5;6;5;10;5;;4;1;6;-9;;1;23;85;8;;3;;4;4;
+21;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+22;deu;2;5;5;5;-9;-9;4;5;6;4;6;5;5;5;5;5;5;6;4;5;5;5;5;5;3;1;;40;2;3;-9;;1;62;91;3;;4;;7;4;3
+23;deu;2;-9;-9;-9;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+24;deu;2;6;6;6;5;6;6;6;5;6;5;6;6;4;5;7;7;7;7;7;5;5;4;4;3;2;;20;2;6;-2;In der Regel erreiche ich durch den Sport den ich betreibe meine Ziele.;1;57;97;9;Meisterausbildung;4;;5;4;1
+25;deu;2;5;5;5;5;5;5;6;5;5;4;5;4;5;4;6;5;5;6;5;5;5;4;3;5;1;;20;1;5;-2;Weil ich in meiner Sportart ehrgeizig bin und Ziele erreichen möchte und auch bereits erreicht hab;1;27;80;8;;8;Angestellte und Studentin;9;10;
+26;deu;2;5;5;5;6;5;5;5;6;6;5;5;5;5;5;4;5;3;4;5;6;5;4;5;3;6;Freeletics / Zumba / Pilates;10;2;6;-2;der Sport immer wieder eine Herausforderung für mich ist und ich die Ziele auch erreichen will.;1;29;85;4;;4;;8;1;4
+27;deu;2;5;5;5;6;4;4;5;4;6;5;6;6;6;6;3;6;5;3;6;4;3;3;3;0;6;;10;2;2;-2;Aktuell keine Zeit für Sport durch Schichtdienst und Nebenstudium.;2;32;80;8;;4;;10;5;4
+28;deu;2;6;5;6;7;6;6;6;6;6;6;7;6;5;5;5;5;7;6;7;5;5;5;3;5;2;;6;2;6;-2;Weil mir wichtig ist meine Gesundheit, mein Körper und meinen Geist zu verbessern, um ein langes fittes leben zu haben;1;24;82;8;;4;;8;1;4
+29;deu;2;5;5;5;6;5;6;4;5;4;4;5;5;4;6;3;6;3;6;3;4;6;3;3;3;2;;;2;2;-2;Unter der Woche entfällt oft die Sportstunde da ich  Arbeit / Familie und Freizeit leider nicht immer unter einem Hut bringen kann....;1;49;85;8;;4;;9;5;4
+30;deu;2;4;6;6;4;4;3;5;3;4;4;3;2;2;3;3;6;5;4;4;3;5;2;5;5;5;;3;2;6;-2;ich im Sport Ziele leichter definieren und mit der richtigen Hilfe erreichen kann.;1;40;85;4;;4;;7;1;1
+31;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+32;deu;2;7;7;7;7;6;6;6;7;6;7;7;7;6;6;6;6;6;7;7;6;6;7;-9;5;4;;24;1;5;-2;Ich sehe Sport als Spaß und Ausgleich an, nicht an erster Stelle um mich zu verbessern und um Ziele zu erreichen. Spaß steht eindeutig im Vordergrund, dennoch gefolgt vom Ehrgeiz zu gewinnen.;2;27;81;8;;4;;10;5;4
+33;deu;2;7;7;7;7;7;7;7;7;7;6;7;7;7;7;7;7;5;7;7;7;7;7;4;7;5;;6;2;3;-2;Auch wenn konkrete Ziele gesetzt worden sind, war nicht die Bereitschaft da andere Bereiche dafür schleifen zu lassen;2;24;80;6;;4;;7;16;1
+34;deu;2;6;6;5;7;7;7;5;6;5;6;6;7;6;5;6;6;7;7;7;5;5;5;7;20;5;;1,5;1;6;-2;Ich muss erst einige Richtungen ausprobieren, um den besten Weg zu meinem spor5lichen Erfolg zu finden.;2;22;80;7;;4;;6;4;1
+35;deu;2;7;6;6;5;7;6;7;7;6;6;6;7;5;6;6;7;7;6;7;4;6;7;7;6;5;;2;1;5;-2;Ich keinem spezifischen Trainingsplan verfolge, bestimmte Übungsausführungen aber häufig durchgehe;1;25;81;8;;4;;7;8;1
+36;eng;2;5;6;6;4;5;5;5;4;4;5;6;6;5;4;6;6;6;4;5;6;4;6;4;3;1;;9;2;2;-2;Competition always stresses me and I need my free time to relax and enjoy what I a doing;1;26;81;4;;4;;8;5;4
+37;deu;2;3;2;3;4;3;3;4;4;4;5;4;4;4;4;5;5;3;3;4;3;3;3;3;;2;;1;2;3;-9;;1;27;97;4;;8;Zahnmedizinische Fachangestellte;5;4;
+38;deu;2;7;7;7;6;6;6;7;6;6;7;6;5;7;6;7;7;6;5;6;4;5;6;3;4;2;;10;2;3;-2;Ich habe kein Gefühl dafür, ob meine gesetzten Ziele mit meinem Einsatz erreichbar sind.;2;30;80;8;;4;;9;1;4
+39;deu;2;6;7;7;6;6;7;7;6;5;5;6;5;7;6;6;7;6;6;7;3;3;5;3;5;5;;4;1;5;-2;es aufgrund der arbeitszeiten nicht immer möglich ist konsequent zum training zu gehen.;1;30;81;8;;4;;9;13;4
+40;deu;2;6;6;6;4;5;5;7;6;5;6;6;6;6;6;6;5;5;3;7;6;5;5;3;5;6;Wandern und Gartenarbeit;45;2;7;-9;;1;52;38;8;;4;;5;1;1
+41;deu;2;7;6;6;7;7;7;7;7;7;6;6;6;6;7;5;7;7;7;5;6;7;6;6;0;-9;;;2;1;-2;Es so ist.;2;53;38;7;;6;;8;10;
+42;deu;2;6;6;6;6;6;5;6;4;6;4;6;6;6;6;4;6;4;6;5;4;4;4;3;4;3;;3;2;2;-2;Spaß, keine Competition;1;32;89;7;;4;;7;13;4
+43;deu;2;6;5;5;4;6;5;6;5;4;3;4;4;6;4;6;4;2;4;3;4;6;5;4;4;1;;40;2;1;-2;Ich mit Radfahren keine sportlichen Ziele erreichen will;2;56;79;8;;6;;8;10;
+44;deu;2;7;7;7;7;6;7;6;7;6;6;7;6;7;7;5;7;7;7;6;5;6;5;7;1;3;;15;2;2;-2;Ich dieses Ziel nicht hoch genug einstufe;2;29;81;8;;4;;10;6;4
+45;deu;2;6;6;6;5;5;5;6;5;4;6;5;5;5;5;2;5;4;5;3;5;4;2;3;1;6;Fitnesskurse ;15;2;3;-2;Mein Fokus liegt nicht im Sport. Sport mache ich nur als Ausgleich und zum Spaß;1;30;59;8;;4;;7;1;3
+46;deu;2;6;6;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+47;deu;2;6;6;7;6;7;7;6;6;5;7;7;6;6;5;4;5;5;5;7;4;6;6;7;1,5;1;;2;1;2;-2;... ich aufgrund meines Arbeitspensums i.d.R. stark improvisieren muss, was meine Freizeitgestaltung angeht.;1;28;10;8;;4;;9;6;3
+48;deu;2;5;6;6;6;5;5;6;5;5;5;5;5;4;5;4;5;3;4;4;5;3;4;4;4;2;;10;2;5;-2;...ich realistisch bin und weiß ob ich die vorgenommenen Ziele erreichen kann oder nicht;1;53;85;7;;4;;-9;5;4
+49;deu;2;6;6;6;6;5;6;7;5;6;5;5;4;7;7;6;6;7;5;5;5;6;5;7;2;1;;10;2;1;-9;;2;28;33;8;;4;;9;5;4
+50;deu;2;5;4;4;4;4;4;4;4;4;5;3;4;5;4;5;4;4;4;3;3;4;3;3;2;3;;1;2;3;-2;Ziele bei Yoga zu definieren ist nicht sooo gängig.;2;48;59;7;;6;;7;2;
+51;eng;2;6;5;6;6;7;4;5;6;6;3;3;3;4;4;5;6;5;6;3;4;5;2;2;1,5;1;;4;1;2;-2;I enjoy running and participating in road races. My main motivation is having fun not achieving a certain time.;1;25;;3;;3;;1;4;
+52;eng;2;5;5;5;4;4;4;5;4;3;4;5;5;4;5;4;5;5;4;5;4;4;5;4;6;6;Swimming;25;1;5;-2;...I want to be successful;2;42;95;9;University degree;4;;8;5;2
+53;deu;2;6;5;5;3;5;5;6;4;5;6;6;6;6;6;3;6;5;4;5;4;4;5;6;5;1;;15;1;6;-2;Weil gezieltes Training erfolg verspricht;2;33;59;6;;4;;6;5;3
+54;deu;2;6;5;6;7;7;7;7;7;7;7;6;6;7;7;7;7;4;7;7;3;7;5;7;0;2;;4;2;1;-2;weil ich nicht sportlich bin;2;30;59;4;;6;;10;1;
+55;eng;2;5;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;6;6;7;7;7;10;2;;17;2;6;-2;I usually have a goal. Walking a certain 3 of miles in a day or toning my core.;1;69;1;9;Masters degree;6;;10;6;
+56;eng;2;7;5;5;6;7;7;7;7;7;6;7;7;7;6;7;7;7;7;7;7;7;7;6;5;2;;50;2;7;-2;I always set new objectives for body building and adjust my workout with new activities to achieve this;2;65;9;8;;3;;10;4;
+57;deu;2;5;5;5;5;5;5;5;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+58;deu;2;5;4;5;4;5;4;5;3;4;4;4;5;3;4;5;4;4;5;5;4;5;4;3;10;1;;15;1;6;-2;Ich motivierter beim Training bin wenn ich konkrete Ziele vor Augen habe;1;22;97;7;;3;;3;3;
+59;deu;2;6;7;7;7;6;6;7;7;7;7;7;7;7;7;7;7;7;7;6;6;7;6;7;5;1;;15;1;5;-9;;1;25;14;8;;4;;8;5;1
+60;deu;2;5;5;5;6;6;6;5;6;6;6;5;5;6;6;5;5;6;6;6;6;5;5;6;6;2;;4;2;7;-9;;1;30;;8;;4;;-9;5;4
+61;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+62;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+63;deu;-9;5;5;7;3;4;4;4;5;6;5;5;6;6;5;5;5;5;5;6;6;6;5;6;4;6;Volleyball uns Schwimmen;20;2;7;-9;;;;;;;;;;;
+64;deu;2;6;4;6;5;5;5;4;5;5;4;5;6;5;5;3;5;4;5;6;6;5;5;4;0;6;Keine;0;2;1;-9;;1;29;38;4;;4;;5;1;1
+65;deu;2;6;5;6;4;5;6;6;5;5;6;5;6;6;5;6;6;6;6;6;6;7;5;6;4;6;Volleyball und schwimmen;50;2;6;-2;Mache gerne Sport;1;50;38;4;;4;;5;14;1
+66;deu;2;6;6;5;5;5;5;6;5;5;5;6;6;5;6;6;6;6;6;6;5;6;5;4;0;1;;2;2;1;-2;Ich kaum Sport betreibe;1;26;81;8;;4;;7;1;4
+67;deu;2;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;5;7;7;7;7;7;6;5;1;;31;2;7;-2;mich erreichbare Ziele motivieren und dazu beitragen die Ziele entsprechend aufzustocken;1;31;45;8;;4;;-9;5;4
+68;eng;2;4;5;4;5;5;4;5;5;5;4;5;5;5;5;3;4;5;5;3;4;4;5;5;7;2;;5;2;3;-9;;2;40;1;8;;4;;10;8;1
+69;deu;2;5;6;6;3;5;5;4;5;4;5;5;7;5;6;5;5;4;7;7;4;4;5;6;9;5;;1,5;2;7;-2;Ich teilweise sehr allgemein gefunden habe;1;25;Wi;9;Angehender Master of Science, BSc vorhanden;8;Student& arbeitnehmer;5;6;
+70;deu;2;4;3;4;4;4;4;4;3;3;4;4;3;4;4;3;4;4;3;4;3;3;4;3;4;3;;3;2;2;-2;Sport im Moment in der Gesellschaft mehr einem Leistungsdruckmittel entspricht, es ist im Moment modern, sich auch darin noch im Wettbewerb mit anderen zu positionieren, anstatt einfach nur auf seine geistige und körperliche Gesundheit zu achten und abzuzielen. Deswegen hechle ich diesen nicht von mir entworfenen Vorstellungen hinterher;1;29;80;8;;4;;7;8;1
+71;deu;2;5;5;5;5;5;5;5;5;5;4;5;5;5;6;5;5;4;6;5;4;5;4;5;3;2;;10;2;5;-2;...;1;49;79;8;;4;;-9;3;2
+72;deu;2;5;5;5;5;4;4;4;5;5;5;4;4;5;5;5;4;5;5;4;5;4;4;4;;5;;2;2;3;-2;ich mich manchmal nicht motivieren kann;1;31;au;7;;6;;8;2;
+73;deu;-9;6;6;4;7;6;4;6;7;7;5;5;5;6;4;7;5;7;7;4;5;6;5;6;8;2;;20;2;5;-2;Um fit zu bleiben;1;52;97;3;;6;;8;4;
+74;deu;2;6;6;6;6;7;6;6;7;7;7;6;7;6;7;7;7;7;7;7;6;7;6;6;6;2;;10;2;6;-2;Ich mir regelmäßig neue Trainingspläne erstelle und mir neue Ziele setze.;1;30;80;8;;4;;9;5;4
+75;deu;2;6;5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+76;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+77;deu;2;5;6;5;6;3;5;5;5;4;3;6;5;6;6;4;5;6;6;6;4;5;4;3;5;2;;5;2;5;-2;es der Realität wohl am Nächsten kommt.;2;28;;7;;4;;8;5;1
+78;deu;2;6;6;6;7;7;5;6;5;5;5;6;5;7;6;5;5;6;6;6;5;5;6;5;5;1;;20;2;3;-9;;2;34;80;8;;6;;6;10;
+79;deu;2;5;5;5;5;5;5;5;5;5;5;5;4;5;5;5;5;5;5;4;4;6;5;4;4;2;;15;2;4;-2;Training ohne messbaren Zielen;2;29;81;8;;4;;10;1;4
+80;deu;2;6;5;5;6;6;6;5;6;6;6;6;5;6;6;6;6;6;6;6;5;5;6;4;30;5;;5;1;6;-2;Weil ich mich kontinuierlich weiterentwickeln möchte und das erreichen meiner sportlichen Ziel auch den Rest meines sozialen und beruflichen Lebens stärkt;2;29;81;4;;8;Ausbildungsleiter für Sozialversicherungsfachangestellte;8;3;
+81;deu;2;6;6;6;6;6;6;6;6;6;5;6;6;6;6;3;6;6;6;6;4;4;3;3;10;5;;2;2;5;-2;Öfters lässt die Motivation nach besonders in anstrengenden beruflichen Phasen;1;34;81;8;;4;;10;5;3
+82;eng;2;7;5;5;6;5;6;6;6;7;4;6;6;6;6;7;6;5;6;7;;;;;;;;;;;;;;;;;;;;;;
+83;eng;2;6;6;5;5;5;6;5;6;5;5;5;6;6;5;5;6;6;5;6;6;5;5;5;10;2;;5;2;6;-2;My confidence;2;73;1;2;;8;Retired;7;8;
+84;eng;2;6;5;6;5;5;6;6;6;3;6;5;5;7;7;5;7;5;5;7;7;7;5;6;7;1;;20;2;2;-2;I bicycle to work and for errands. I don’t have time or competition goals related to bicycling.;1;37;97;9;MBA;4;;10;1;3
+85;eng;2;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;5;2;;20;2;7;-2;I set goals at the gym and in workout classes;1;38;97;8;;4;;10;4;1
+86;eng;2;5;7;5;5;5;4;4;5;5;4;5;5;5;5;5;;;;;;;;;;;;;;;;;;;;;;;;;;
+87;eng;2;7;7;7;6;6;6;7;6;6;7;7;7;7;7;7;7;7;7;7;7;7;7;7;3;6;tennis;25;2;3;-2;i should go to the gym more often.;1;74;1;9;masters degree;6;;8;8;
+88;eng;2;6;7;5;7;6;6;7;6;6;3;6;5;6;7;6;6;3;7;6;6;6;4;4;5;2;;5;2;6;-2;I want to achieve my goals;2;36;1;9;Master's Degree;5;;10;2;
+89;deu;2;3;4;3;5;3;2;4;4;4;3;4;4;3;4;3;4;4;4;2;3;4;3;2;;2;;3;2;5;-2;Weil ich realistisch einschätze welchen Fortschritt ich in welcher Zeit schaffen KANN. Nach dieser Einschätzung richte ich mein Ziel aus und danach dann mein Training.;1;25;97;7;;3;;1;3;
+90;deu;2;6;5;7;7;6;6;5;6;6;7;7;5;7;6;7;6;7;7;6;6;6;7;7;6;2;;12;2;3;-2;Ich mir keine aktiven Ziele beim Freizeitsport setze.;2;27;76;8;;4;;8;5;1
+91;eng;2;7;5;6;7;7;6;6;5;6;4;6;4;7;6;7;7;7;6;6;6;7;7;7;3;2;;8;2;7;-2;working out helps me focus on my values;2;72;94;8;;6;;10;12;
+92;deu;2;6;5;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+93;eng;2;7;6;6;6;6;6;7;6;6;6;6;5;6;6;6;6;6;6;6;6;6;5;6;12;2;;25;2;6;-2;I believe if you lay out the objective of what you are trying to do the success rate will be very high depending on the individual;2;47;1;8;;4;;10;-9;1
+94;deu;2;7;5;7;7;7;6;6;6;6;6;7;6;6;7;5;5;6;6;7;7;2;2;3;6;1;;6;2;5;-2;Es fehlt manchmal die Regelmäßigkeit, aber es gibt einen Plan.;1;23;81;8;;4;;7;5;4
+95;deu;2;6;4;6;5;4;4;5;5;4;6;6;6;4;3;3;5;6;5;7;3;4;3;4;5;2;;3;2;6;-2;spontane Einschätzung;-9;23;60;8;;4;;8;1;4
+96;deu;2;5;6;6;7;6;4;6;3;4;5;6;6;4;4;7;7;3;3;5;1;6;3;2;2;3;;2;2;4;-2;Kommt auf die zur Verfügung stehende Zeit an.;1;38;80;6;;4;;-9;9;4
+97;eng;2;6;6;5;5;6;5;7;5;4;5;6;7;6;7;7;6;7;7;7;3;6;5;5;2;1;;10;1;5;-2;I do set goals but not very specific.;2;33;81;8;;4;;8;1;1
+98;deu;2;7;7;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+99;deu;2;6;5;6;5;6;6;4;6;4;6;7;7;5;5;4;6;4;3;4;2;3;4;4;1;2;;5;2;1;-2;Weil Sport für mich keinen sehr hohen Stellenwert hat.;1;24;81;4;;4;;6;1;1
+100;deu;2;6;6;6;7;6;7;7;6;5;6;6;6;7;6;7;6;5;6;6;7;5;5;6;7;2;;6;2;5;-2;Ich setzte mir nur bedingt Ziele, da der Sport zum Hauptteil dem Ausgleich dient um den Kopf frei zu bekommen.;2;28;81;8;;4;;10;10;4
+101;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+102;eng;2;7;7;7;6;7;6;7;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+103;deu;2;6;5;5;6;6;5;7;5;5;4;5;4;6;6;4;6;5;6;5;5;3;5;2;2;2;;10;2;3;-2;ich konsequenter Sport treiben müßte -;1;48;81;8;;4;;10;9;4
+104;deu;2;7;7;6;6;5;5;6;7;5;6;7;7;6;5;5;7;5;6;7;6;5;7;7;10;2;;2;2;6;-9;;2;32;44;8;;4;;8;6;4
+105;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+106;deu;2;5;6;5;6;5;6;6;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+107;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+108;deu;2;6;6;7;7;6;6;5;6;6;6;7;6;6;6;4;6;7;6;4;7;7;5;4;6;4;;13;1;6;-2;"Training wird so ausgerichtet, dass die spielerischen Stärken noch mehr gestärkt werden (Fokus liegt nicht darauf Schwächen zu ""beheben"" - auch aber eher auf Stärken)";1;26;42;8;;4;;8;5;4
+109;deu;2;2;3;2;3;2;3;2;1;3;5;4;4;5;5;4;5;5;5;6;5;5;6;5;6;1;;20;1;5;-2;Weil ich einen Anreiz brauche;2;27;81;8;;4;;10;1;4
+110;deu;2;6;6;6;5;5;4;5;4;6;5;5;5;5;4;4;5;4;4;5;4;5;3;4;1;1;;40;2;3;-2;nur immer ein spontanes Ziel gesetzt wird. Kein Ziel auf das hintrainiert wird.;1;56;85;4;;4;;8;1;4
+111;deu;2;7;6;6;5;5;5;4;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+112;eng;2;4;3;3;4;6;6;5;4;5;3;5;4;4;4;7;6;6;5;4;2;5;5;4;5;2;;6;2;6;-2;I strive to improve;2;28;80;3;;4;;9;1;1
+113;deu;2;6;6;6;6;5;5;6;6;5;7;6;2;6;-9;5;6;6;6;7;5;5;6;5;1;1;;15;2;1;-9;;1;27;80;8;;4;;8;1;2
+114;deu;-9;-9;-9;-9;-9;-9;-9;-9;-9;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+115;deu;2;7;7;7;6;7;7;7;6;6;6;7;6;6;6;7;7;7;6;6;6;6;6;6;4;6;Tanzen;7;2;4;-2;ich zu spät mit dem Sport Tanzen begonnen habe;1;60;23;4;;4;;10;1;4
+116;deu;2;6;5;5;5;4;-9;4;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+117;deu;-9;-9;-9;-9;-9;-9;-9;-9;-9;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+118;eng;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+119;eng;2;7;7;7;7;7;7;6;7;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+120;eng;2;5;5;5;5;6;5;4;5;5;4;4;4;5;5;5;5;5;5;4;4;4;4;4;1;6;i don't get much exercise;0;2;2;-2;i don't exercise much;1;49;3;8;;4;;10;4;3
+121;deu;2;6;6;6;5;5;5;6;6;5;6;6;6;6;6;5;5;4;5;6;5;5;6;5;3;1;;;2;7;-9;;2;35;50;6;;4;;8;2;2
+122;deu;2;5;4;6;6;6;6;6;5;6;5;6;6;6;7;6;;;;;;;;;;;;;;;;;;;;;;;;;;
+123;eng;2;5;6;6;7;6;5;4;6;5;6;6;6;5;6;4;6;5;6;4;4;4;6;3;5;6;walking;60;2;3;-2;not completing the physical activity goal consistently;2;65;3;8;;4;;10;4;3
+124;deu;2;6;6;6;7;7;5;7;7;6;6;7;7;6;7;6;7;6;7;7;6;6;7;7;4;5;;6;1;5;-2;Ziele im Sport zu setzen spornt mich an und hilft mir dabei Fortschritte zu erzielen, indem ich mich gezielt auf einzelne Bereiche und Übungen fokussiere. Die Kombination aus Zielen und Fokus ermöglicht mir langfristigen Fortschritt. Ich merke, dass ich auf diese Weise vorankomme, was es mir erleichtert auch Ziele in Angriff zu nehmen, die in weiter Ferne liegen;1;31;81;8;;4;;9;8;4
+125;deu;2;5;6;6;5;6;5;5;5;6;5;6;6;5;5;4;6;6;6;6;4;4;5;4;8;5;;3;2;4;-2;Aufgrund meiner Situation im privaten kann ich mich im Bereich Sport gerade nicht ganz auf meine Ziele konzentrieren;1;33;81;8;;4;;7;4;1
+126;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+127;deu;2;7;7;7;5;6;6;5;7;5;6;7;6;6;7;7;6;7;7;5;6;5;6;6;14;5;;3;1;6;-2;Weil ich absolut zielgerichtet bin;2;32;81;8;;4;;10;5;3
+128;deu;2;4;6;5;6;5;5;6;6;6;5;4;5;5;5;6;6;6;6;7;5;3;2;2;12;5;;1;1;7;-2;Weil Crossfit meine größte Leidenschaft ist und ich mit dieser sportlichen Aktivität nicht nur gut und gesund bleiben sondern auch stärker, besser werden möchte, bestimmte Skills im CF erreichen möchte;1;26;81;8;;4;;5;8;1
+129;deu;2;6;6;6;7;6;5;7;7;6;6;6;7;6;6;6;6;7;7;7;5;6;6;6;4;5;;3;2;5;-2;Ich mir zwar Ziele setze, aber das Training keinesfalls konsequent danach ausrichte.;1;44;81;8;;4;;10;1;4
+130;deu;2;7;7;5;7;7;5;6;7;7;5;6;7;4;7;4;5;7;7;7;7;5;7;3;7;5;;3;1;7;-9;;1;24;81;7;;8;Student und Selbstständig ;5;8;
+131;deu;2;7;7;6;7;6;6;6;6;6;5;6;6;7;5;6;6;6;6;6;5;6;6;4;6;5;;3;2;5;-2;Im Job bin ich sehr gefordert und trage viel Verantwortung. Der Sport ist Ausgleich und soll hauptsächlich Spass machen. Natürlich freu ich mich über gute Ergebnisse, trainiere aber nicht darauf hin. Dafür wäre es notwendig noch mehr Zeit in den Sport zu investieren.... es gibt allerdings noch ein Leben nach Arbeit/Sport und der Tag hat nur 24 Stunden  :-D;1;42;81;6;;4;;9;1;4
+132;deu;2;6;6;6;7;6;6;7;6;7;6;7;7;7;6;4;6;6;6;7;6;5;7;3;7;5;;2;1;4;-2;es mir Schwiergikeiten bereitet realistische Ziele zu finden und diese zu setzen.;1;25;80;8;;4;;6;5;1
+133;deu;2;5;5;5;5;6;4;6;5;5;5;4;6;4;5;4;5;4;6;6;6;5;6;4;10;2;;10;2;5;-9;;1;26;80;9;BAchelor of Science ;3;;4;2;
+134;eng;2;7;7;7;7;7;7;5;7;7;5;6;7;6;5;6;7;7;6;1;6;6;6;7;3;5;;2;1;2;-2;Due to being overworked and traveling schedules, my work-life balance is nonexistent, hence no time as wished for workouts;1;46;81;9;masters;4;;10;1;3
+135;deu;2;6;6;6;6;6;6;7;5;7;7;7;7;7;6;5;7;7;6;6;4;5;3;4;6;5;;4;2;5;-2;Im Crossfit nicht immer möglich, weil Pläne täglich variieren. Aber ich nehme nun Personal Training in Anspruch, um mich zu verbessern.;1;37;81;9;Fachhochschule;4;;8;1;4
+136;eng;2;6;6;6;4;5;6;3;6;7;5;6;7;6;7;5;6;7;5;7;4;3;7;4;6;6;Overall athleticism (explosiveness, jumping, calisthenics, etc);11;2;6;-2;Whenever I set goals that I'm ambitious about I go for them. Otherwise I just add components to my practice sessions instead of modifying them entirely.;2;25;81;8;;4;;6;5;4
+137;deu;2;5;6;6;6;7;7;6;7;7;7;7;7;7;-9;5;7;4;7;7;6;6;7;5;7;5;;3;1;6;-9;;2;49;81;8;;6;;-9;5;
+138;deu;2;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;7;5;5;4;5;7;1;;2;2;6;-9;;2;25;81;8;;4;;9;5;4
+139;deu;2;6;6;6;5;5;5;6;6;6;6;6;7;7;7;7;7;7;6;7;6;6;6;6;5;2;;15;2;7;-2;kein Vorankommen ohne klares Ziel!;1;31;81;8;;4;;9;5;4
+140;eng;2;6;6;5;7;7;6;7;7;6;6;6;6;7;6;7;7;6;7;7;7;7;6;6;9;6;Golf and daily exercise;50;1;6;-2;I've been exercising for most of my life, beginning with school and a military career.;2;73;76;8;;4;;10;1;1
+141;eng;2;6;5;6;4;4;3;4;5;5;5;5;5;6;5;6;6;5;5;6;6;5;5;5;7;1;;40;1;7;-2;I've always been very organized and diligent in training athletically.;2;62;3;9;Ph. D.;6;;9;6;
+142;eng;2;5;5;5;4;3;5;5;4;6;6;4;6;2;4;2;5;6;3;7;5;4;2;4;12;5;;2;1;7;-2;A goal without a plan is just a wish!;1;24;UK;3;;4;;7;1;4
+143;eng;2;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;-9;;-9;;;-9;-9;-2;...;-9;;;-9;;-9;;-9;-9;
+144;deu;2;7;5;6;6;5;5;6;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+145;deu;2;5;6;5;5;6;5;4;4;5;5;6;4;4;4;7;6;5;5;4;6;7;6;6;2;2;;10;2;4;-2;mit bei der sport mehr um den ausgleich geht, als ein sportliches ziel zu erreichen;2;37;85;4;;8;Leitender Angestellter;10;5;
+146;deu;2;6;4;6;6;6;5;4;5;6;5;7;4;5;6;5;6;5;4;4;3;6;3;6;8;5;;4;2;3;-2;weil der Spaß, das Wohlergehen und die Herausforderung im Vordergrund steht und nicht der sportliche Erfolg;1;28;80;9;Bachelor of Science;3;;3;5;
+147;eng;2;7;7;7;7;7;6;7;7;7;5;7;7;6;7;7;7;6;6;5;6;7;6;7;7;1;;50;2;7;-2;I like to monitor progress of my activities over a long period of time in order to detect changes that might require corrective action;2;60;1;8;;8;Recently retired (7 months);10;5;
+148;deu;2;6;6;7;6;7;5;7;7;7;6;6;7;6;6;5;6;7;5;6;6;6;5;6;2;5;;0,5;2;6;-2;Die Teilnahme an meinen ersten CrossFit Open ist Ansporn und Ziel meines Trainings.;2;25;81;8;;4;;9;5;4
+149;deu;2;5;5;4;4;5;5;5;5;6;5;6;6;5;6;5;6;4;5;6;4;6;5;1;2;5;;1;2;5;-2;Die Erreichung von einem Ziel hat positive Auswirkung auf mein Wohlbefinden und Selbstwertgefühl;1;25;81;8;;4;;6;1;1
+150;deu;2;4;4;4;4;4;4;4;3;3;3;4;4;3;4;3;3;3;4;4;2;3;3;4;2;5;;1;2;3;-2;Ich müsste noch gezielter und regelmäßiger an Übungen arbeiten.;1;33;81;8;;4;;8;12;1
+151;eng;2;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;5;2;;20;2;6;-9;;2;;;8;;4;;-9;3;3
+152;deu;2;6;6;6;7;5;4;5;6;4;3;4;6;5;5;4;7;7;5;6;5;5;6;4;2;1;;10;2;2;-2;ich treibe Sport aus Spaß an der Bewegung;1;26;80;8;;4;;8;8;4
+153;deu;2;7;7;7;7;7;7;7;7;7;7;7;7;7;7;6;7;7;7;7;5;7;6;6;8;2;;17;2;7;-2;Weil ich konsequent bin!;2;32;81;6;;4;;10;1;4
+154;deu;2;6;6;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+155;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+156;deu;2;5;5;5;4;5;3;3;4;4;4;4;4;4;4;3;3;5;4;4;4;5;6;3;1;3;;2;2;1;-2;.;1;37;41;6;;4;;6;1;4
+157;deu;2;5;5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+158;deu;2;6;6;5;5;6;6;5;5;5;6;6;5;7;5;4;6;5;4;6;4;6;6;5;15;5;;2;1;6;-9;;2;29;81;8;;4;;8;8;1
+159;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+160;deu;2;5;5;5;4;6;5;5;6;5;5;5;5;6;6;4;6;6;5;6;5;5;6;5;7;5;;2;2;4;-2;Habe keine expliziten Ziele, aber merke Fortschritte, was motiviert weiter zu machen!;1;25;80;7;;3;;3;11;
+161;deu;2;5;5;6;5;6;6;4;4;4;5;6;6;5;5;4;6;6;5;5;4;3;5;3;16;5;;1;1;5;-9;;1;34;80;8;;4;;7;6;4
+162;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+163;deu;2;6;5;6;6;5;5;6;6;6;6;5;7;6;7;6;6;6;7;7;6;5;5;5;5;5;;5;2;6;-2;Ich mich bei bestimmten Disziplinen im crossfit verbessern möchte bzw. meistern möchte.;2;30;80;8;;4;;9;8;3
+164;eng;2;5;5;4;2;3;2;2;2;2;4;4;5;3;2;4;3;2;2;4;3;3;2;1;4;5;;4;1;4;-9;;2;32;81;8;;4;;7;1;4
+165;deu;2;6;6;6;5;5;5;5;5;5;6;6;6;5;6;5;6;5;5;6;5;5;4;4;6;5;;0,5;2;3;;;;;;;;;;;;
+166;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+167;deu;2;6;5;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;6;5;;3;2;6;-9;;;;;;;;;;;
+168;deu;-9;5;5;4;5;4;4;4;5;4;4;4;4;4;5;3;4;3;5;4;3;5;4;3;6;5;;0,5;2;4;-2;teils, teils. Zielen gehe ich nach, aber nicht mit aller Konsequenz;2;27;80;8;;4;;7;6;1
+169;deu;2;6;5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+170;deu;2;4;4;4;6;6;6;6;6;6;5;6;5;5;5;6;6;3;5;5;4;4;3;3;3;3;;2;2;4;-2;weil bei mir der Sport eher weniger zielgerichtet ist und mehr die Entspannung und der Spaß im Vordergrund steht;1;25;97;7;;3;;-9;3;
+171;deu;2;5;5;5;5;5;5;5;5;5;5;5;6;5;5;4;;;;;;;;;;;;;;;;;;;;;;;;;;
+172;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+173;deu;2;2;2;2;1;1;2;1;3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+174;deu;2;4;5;5;4;3;4;5;6;5;3;5;4;3;4;2;3;2;4;4;4;3;2;2;6;5;;2;1;5;-2;Erreichbare Ziele helfen motiviert zu bleiben;2;32;35;7;;4;;9;5;4
+175;deu;2;6;6;6;6;6;6;6;6;6;5;6;6;6;6;6;;;;;;;;;;;;;;;;;;;;;;;;;;
+176;deu;2;6;5;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+177;deu;2;6;7;7;7;6;6;6;7;7;6;7;7;7;7;7;7;7;6;7;4;6;5;7;8;5;;1;1;6;-9;;2;32;80;8;;4;;8;10;2
+178;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+179;deu;2;7;7;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+180;deu;2;3;4;5;3;4;3;4;3;3;2;4;5;4;6;2;2;2;2;5;4;4;3;4;5;5;;0,5;2;6;-2;Ich ein Ziel brauche auf das ich hinarbeiten kann. Ohne Ziel würde ich keinen Ansporn haben und nichts was mich besonders antreibt.;1;22;80;7;;3;;4;4;
+181;deu;2;6;6;6;7;6;6;7;6;6;5;6;5;6;6;7;6;4;6;7;5;6;7;6;15;5;;8;1;6;-2;Ich aus meiner langen Erfahrung weiß dass es so ist;2;34;81;8;;4;;9;16;1
+182;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+183;deu;2;7;7;6;6;6;6;5;6;6;5;6;7;7;7;5;6;6;7;7;;;;;;;;;;;;;;;;;;;;;;
+184;eng;2;4;6;5;4;6;5;7;7;4;4;6;7;5;6;7;5;5;6;7;4;4;7;2;8;5;;2,5;2;6;-2;I systematically do extra work to learn a new skill or get better at something (e.g. extra exercises after each class to learn to do a pull-up);1;34;10;9;PhD;4;;9;-9;4
+185;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+186;deu;2;6;5;7;5;6;5;6;6;5;6;6;7;6;6;7;6;6;5;6;5;5;6;3;10;5;;2;2;4;-2;Generelle Fitness ist mir wichtig, habe nur bei manchen Übungen quantifizierbare Ziele;2;33;80;8;;4;;10;10;4
+187;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+188;deu;2;5;5;5;6;6;6;6;6;6;4;4;5;5;5;5;6;5;6;5;4;5;3;4;8;3;;5;2;1;-2;Es gibt beim Yoga keine Ziele;1;27;81;8;;4;;6;4;3
+189;deu;2;3;5;4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+190;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+191;deu;2;5;5;4;3;4;4;5;6;5;5;5;6;5;6;6;6;6;4;6;5;4;3;5;11;5;;4;1;6;-2;.;1;43;24;9;Betriebswirt;2;;6;1;
+192;deu;2;5;5;4;5;4;4;4;5;4;3;3;3;4;3;2;3;2;3;4;3;2;3;1;12;5;;3;2;4;-2;Ich mir ziele setze die ich auch erreiche, jedoch ein erreichen nicht das hauptziel ist, der spass steht im vordergrund;2;36;80;6;;4;;10;6;4
+193;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+194;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+195;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+196;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+197;deu;2;5;5;6;6;4;4;6;5;3;7;5;3;6;4;5;4;4;4;5;3;3;3;4;4,5;5;;0,5;2;4;-9;;2;31;86;4;;4;;7;9;3
+198;deu;2;6;6;5;5;6;5;5;6;5;5;5;6;5;5;5;5;6;4;5;4;6;6;6;;1;;20;2;2;-2;weil für mich Erlebnis vor Ergebnis steht;2;42;81;8;;7;;5;14;
+199;deu;2;5;5;5;5;4;4;4;5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+200;deu;2;6;6;6;6;6;5;6;6;6;4;5;4;6;6;6;6;6;6;7;5;7;7;5;3;5;;0,5;1;6;-2;Mit einem Ziel vor Augen kann man (auch kleine) Fortschritte besser sehen und wertschätzen.;1;28;80;8;;4;;6;8;1
+201;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+202;deu;2;7;6;6;7;7;7;6;6;6;6;5;6;6;6;5;7;7;7;7;6;5;5;2;9;5;;5;2;7;-2;Um mich weiterentwickeln zu können;2;31;53;7;;8;Berufssoldat ;10;-9;
+203;deu;2;5;6;6;5;6;5;5;5;3;6;6;5;6;6;4;6;6;4;6;3;3;5;3;5;5;;4;2;6;-2;Ich mich selber gut einschätzen kann und weiss wo meine Grenzen liegen. So kann ich auch meine Ziele hoch setzen aber erreichbar.;1;25;FL;2;;8;Praktikantin;6;8;
+204;deu;2;6;6;5;7;6;6;5;7;7;5;7;7;6;7;7;6;7;7;4;5;5;4;1;6;5;;6;2;6;-2;Ziele essentiell für Entwicklung sind;1;32;80;8;;4;;7;6;4
+205;deu;2;7;6;7;7;6;6;5;6;6;6;7;7;7;6;5;7;7;6;7;6;6;7;6;2;2;;10;2;2;-2;fuer mich ist Sport ein Ausgleich. Ich setzte mir dort weniger konkret-langfristige Ziele als im Beruf.;1;33;45;8;;4;;10;5;4
+206;eng;2;6;6;6;7;7;7;6;7;7;6;6;7;6;6;7;6;7;6;5;3;6;6;7;3;5;;0,7;2;5;-2;I'm still learning some of the movements so do not have very clear goals yet.;2;36;35;9;Master of Science;4;;9;6;4
+207;deu;2;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+208;deu;1;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+209;deu;2;6;5;5;5;5;5;5;6;4;5;6;5;6;5;4;5;5;4;5;4;6;5;4;4;5;;0,5;2;3;-2;ich mir als CF- Neuling noch keine konkreten Ziele setze. Gehe hin weil es Spaß macht und ich mich fitter fühle.;1;29;80;7;;3;;3;4;
+210;deu;2;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;5;10;5;;5;1;5;-2;Nur mit einem Plan erreicht man Ziele schnell;2;31;81;7;;4;;9;10;4
+211;deu;2;5;5;6;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+212;eng;2;6;6;7;6;6;6;6;6;4;5;6;5;5;6;6;5;5;6;5;6;6;5;6;5;1;;40;1;4;-2;I really don't have a goal when it comes to running, such as times or races. I just enjoy running for pleasure.;2;50;48;9;Masters Degree;8;Retired, Just finished teaching certficate;10;3;
+213;eng;2;5;5;5;4;5;4;5;5;5;3;5;5;5;5;5;5;4;4;4;4;4;4;3;;5;;3;2;5;-2;I like to see  progresses;1;44;80;6;;4;;10;1;4
+214;deu;2;7;7;7;6;7;7;7;5;7;7;7;7;7;7;5;7;7;7;7;7;5;4;6;12;1;;3;2;5;-2;Crossfit andere sportlich Ziele erleichtert;2;34;80;8;;4;;10;5;2
